@@ -1,0 +1,15 @@
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\CardGame-Xiaowei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\CardGame-Xiaowei.AssemblyInfoInputs.cache
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\CardGame-Xiaowei.AssemblyInfo.cs
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\CardGame-Xiaowei.csproj.CoreCompileInputs.cache
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\CardGame-Xiaowei.sourcelink.json
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\bin\Debug\net8.0\CardGame-Xiaowei.exe
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\bin\Debug\net8.0\CardGame-Xiaowei.deps.json
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\bin\Debug\net8.0\CardGame-Xiaowei.runtimeconfig.json
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\bin\Debug\net8.0\CardGame-Xiaowei.dll
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\bin\Debug\net8.0\CardGame-Xiaowei.pdb
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\CardGame-Xiaowei.dll
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\refint\CardGame-Xiaowei.dll
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\CardGame-Xiaowei.pdb
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\CardGame-Xiaowei.genruntimeconfig.cache
+C:\Users\MSI_NB\source\repos\CardGame-Xiaowei\CardGame-Xiaowei\obj\Debug\net8.0\ref\CardGame-Xiaowei.dll
